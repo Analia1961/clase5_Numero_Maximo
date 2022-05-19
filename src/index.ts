@@ -30,7 +30,7 @@ if (conIngresos) {
   console.log("El máximo es ", maxNum);
 }
 
-// Encontrar el Número Máximo
+// Encontrar el Número Mínimo
 /*
 let conIngresos: boolean = false;
 let num = Number(prompt("Ingrese un número"));
